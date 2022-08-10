@@ -1,0 +1,26 @@
+.footer {
+    /* display: block;
+    padding: 3px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; */
+    background-color: blue;
+    /* color: white;
+    text-align: center; */
+}
+
+.theatre {
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 50;
+}
+
+.container {
+    align-items: center;
+    align-content: center;
+}
+
+.main {
+    align-content: center;
+}
